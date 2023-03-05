@@ -4,7 +4,7 @@ import { Calculator } from './components/SmartComponents/Calculator/Calculator';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" id="app">
       <Calculator/>
     </div>
   );

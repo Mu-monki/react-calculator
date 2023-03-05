@@ -1,3 +1,9 @@
+#app {
+  width: 320px;
+  height: 520px;
+  position: relative;
+}
+
 .App {
   text-align: center;
 }
