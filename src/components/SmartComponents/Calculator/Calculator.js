@@ -105,7 +105,7 @@ export const Calculator = () => {
     if (value == null) {
       setState({
         ...state, 
-        value: displayValue,
+        value: inputValue,
         waitingForOperand: true,
         operator: nextOperator
       });
